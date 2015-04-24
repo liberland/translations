@@ -3,6 +3,8 @@
 # Liberland Translation Project
 This is the source repository for translations of Liberland documents. All documents, including translated versions can be downloaded in several different formats including PDF, ePub and Mobi from [liberland/doc](https://github.com/liberland/doc) repository.
 
+> **The English version shall always prevail in case of any discrepancy or inconsistency between English version and any translation.**
+
 ## Available translations
 <!-- - [None]() by John Appleseed ([@example](https://github.com/example)) -->
 
