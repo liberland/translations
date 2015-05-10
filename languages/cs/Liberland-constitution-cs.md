@@ -16,10 +16,10 @@ Tato Listina Práv tvoří nedílnou část Ústavy a je závazná pro všechny 
 
 ### Článek II: Legislativní omezení
 
-* **§II.1.** No ex post facto law shall be passed.
-* **§II.2.** No Bill of Attainder shall be passed.
-* **§II.3.** No law shall abridge the right of persons to the control of their own bodies and property, nor interfere with voluntary consensual or contractual relations among adult persons, nor impinge on the right to form cooperative ventures of any kind, so long as no negative rights of others are infringed by force or fraud, or threat thereof, or unbeknown to them.
-* **§II.4.** No law shall invade the privacy of peaceful persons by unreasonable searches, seizures, storage of personal information without consent of their rightful owners, including but not limited to, the use of digital means, freeze of assets of any natural and/or legal person, otherwise than in pursuit of a Warrant issued by a judge of appropriate court, and only to an extent which is necessary to attain the end; no Warrants shall be issued, but upon probable cause, supported by appropriate request, and particularly describing the place to be searched, and the persons or things to be seized or put under surveillance.
+* **§II.1.** Nebude přijat žádný zákon se zpětnou platností (ex post facto).
+* **§II.2.** Nebude přijat žádný zákon umožňují propadnutí majetku a občanských práv.
+* **§II.3.** Žádný zákon neomezí právo lidí nakládat se svým vlastním tělem a se svým majetkem, ani nebude narušovat dobrovolné nebo smluvní vztahy mezi dospělými lidmi, ani neovlivní právo tvořit spolky jakéhokoliv druhu, pokud tím nebudou porušena negativní práva druhých prostřednictvím násilí či podvodu nebo prostřednictvím hrozby násilí či podvodu nebo bez jejich vědomí.
+* **§II.4.** Žádný zákon nebude narušovat soukromí mírumilovných lidí neodůvodněnými prohlídkami, zabavením majetku, ukládáním osobních údajů bez souhlasu jejich právoplatného majitele, včetně elektronických způsobů, nevyjimaje způsoby jiné, zmrazením majetku jakékoliv fyzické a/nebo právnické osoby, s výjimkou naplňování Soudního Příkazu vydaného soudcem příslušného soudu a pouze v míře nezbytné pro dosažení účelu; nebudou vydány žádné takové Soudní Příkazy, s výjimkou pravděpodobných případů podložených adekvátním požadavkem a jasně specifikujících místo prohlídky a lidi či místa k zajištění nebo dohledu.
 * **§II.5.** No law shall allow for the private property be fully or partially taken for the public use without the consent of, and mutually agreeable compensation to, the owner.
 * **§II.6.** No law shall create victimless and/or consensual crimes.
 * **§II.7.** No law shall mandate any person to associate and/or transact with any other person; nor shall it prohibit it.
