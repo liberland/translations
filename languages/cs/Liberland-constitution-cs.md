@@ -10,9 +10,9 @@ Tato Listina Práv tvoří nedílnou část Ústavy a je závazná pro všechny 
 
 ### Článek I: Základní ustanovení
 
-* **§I.1.** The enumeration in this Constitution of certain rights shall not be construed to deny or disparage others retained by the Citizens and other residents of the Free Republic of Liberland.
-* **§I.2.** The powers not conferred upon the Public Administration by this Constitution, shall not be exercised by it.
-* **§I.3.** Any person in public office who is convicted of intentional breach of this Constitution, shall be immediately removed from the office and shall not hold any other public office in the future.
+* **§I.1.** Výčet práv v této Ústavě nesmí být vykládán tak, aby popřel nebo znevážil jiná práva požívaná Občany a jinými obyvateli Svobodné republiky Liberland.
+* **§I.2.** Pravomoci, které nejsou Veřejné Správě svěřeny touto Ústavou, jí nebudou uplatňovány.
+* **§I.3.** Kterýkoliv veřejný činitel odsouzený za úmyslné porušení této Ústavy bude neprodleně odvolán z úřadu a nebude moci v budoucnu zastávat žádnou veřejnou funkci.
 
 ### Článek II: Legislativní omezení
 
