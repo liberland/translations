@@ -39,30 +39,30 @@ Tato Listina Práv tvoří nedílnou část Ústavy a je závazná pro všechny 
 
 ### Článek III: Práva jednotlivce
 
-* **§III.1.** The Citizens of the Free Republic of Liberland shall have the access to information which relates to any aspect of the functioning of any body of any branch of the Public Administration which is not classified, and no information shall be classified unless it is absolutely necessary for the purposes of national security.
-* **§III.2.** No excessive bail shall be required, nor excessive fines imposed.
-* **§III.3.** No torture or other cruel, unusual, or degrading treatment shall be inflicted on any person by any agent of any branch of the Public Administration or with consent or knowledge thereof; no person shall be subjected to experiments of any sort without his or her consent; any person whatsoever responsible shall be held personally accountable for such a crime against human dignity, regardless of any law, policy, command or suggestion which might have been authorising such conduct.
-* **§III.4.** No person shall be convicted of an illegal disclosure of classified information if that piece of information proves or could be reasonably believed to be proving that any agent of any branch of the Public Administration has breached, remains in breach or intends to breach the law.
-* **§III.5.** Any agent of the Public Administration shall be personally liable for any loss caused by him or her whilst acting in their official capacity but unlawfully and/or in error.
-* **§III.6.** No Assembly Representative shall be precluded from taking part in any Assembly vote by virtue of being detained prior to his or her trial; no judge of any Court of the Free Republic of Liberland shall be detained on suspicion of any criminal offence unless with an express consent of at least three Justices of the Supreme Court.
-* **§III.7.** In criminal cases, the defendant shall have the right to the following:
-  * **§III.7(1)** to a speedy and public trial;
-  * **§III.7(2)** to trial by an impartial jury composed of twelve Citizens;
-  * **§III.7(3)** to be informed of criminal charges;
-  * **§III.7(4)** to confront witnesses and to compel witnesses to appear in court;
-  * **§III.7(5)** to the assistance of legal counsel free of charge where appropriate;
-  * **§III.7(6)** to be presumed innocent until proven guilty;
-  * **§III.7(7)** not to be compelled to be a witness against himself or herself.
-* **§III.8.** No person shall be convicted, sentenced, or imprisoned without due process of law.
-* **§III.9.** A person who has been arrested, detained, imprisoned, tried, or sentenced either illegally or in error shall receive fair restitution.
-* **§III.10.** No person shall be detained without trial for more than twenty-four hours otherwise than in pursuit of a Warrant issued by a judge of the Criminal Court, and no Warrants shall be issued, but upon probable cause, supported by appropriate request and unless it is absolutely necessary for the protection of others; and no detention in pursuit of such a Warrant shall be longer than it is absolutely necessary to bring an accused to trial.
-* **§III.11.** No person shall either before or after trial be held incommunicado.
-* **§III.12.** An accused who does not speak the language in which the criminal proceedings are conducted shall be provided without expense with the services of an interpreter.
-* **§III.13.** No person shall be subject for the same offense to be twice put in jeopardy of a penalty.
-* **§III.14.** No person shall be deprived of the right to own, manufacture, sell, transport, and bear arms unless declared otherwise by a court of law on mental health grounds, nor shall licensing be used to infringe upon this right.
-* **§III.15.** No person shall be prevented from challenging an administrative decision given in his or her respect via the procedure of judicial review.
-* **§III.16.** No person shall be tried for disobedience against an unlawful action of any agent of the Public Administration and/or against unconstitutional law.
-* **§III.17.** No person shall be deprived of his or her citizenship otherwise than by a court of law.
+* **§III.1.** Občané Svobodné republiky Liberland mají přístup k informacím vztahujícím se ke kterémukoliv aspektu fungování libovolného orgánu kterékoliv složky Veřejné zprávy, která není utajovaná, a žádná informace nebude utajovaná, pokud to není naprosto nezbytné pro účely národní bezpečnosti.
+* **§III.2.** Nebude vyžadována nepřiměřená kauce ani ukládány nepřiměřené pokuty.
+* **§III.3.** Žádný člověk nebude podroben mučení nebo jinému krutému, neobvyklému nebo ponižujícímu zacházení žádným činitelem žádné složky Veřejné zprávy nebo s jeho vědomím či souhlasem; žádný člověk nebude bez svého vědomí podroben experimentům jakéhokoliv druhu; kdokoliv jakýmkoliv způsobem zodpovědný za takovéto jednání bude osobně odpovídat za takový zločin proti lidské důstojnosti bez ohledu na jakýkoliv zákon, postup, příkaz nebo doporučení, které by takové chování mohlo autorizovat.
+* **§III.4.** Žádný člověk nebude obviněn z protiprávního vyzrazení utajované skutečnosti, pokud tato skutečnost dokazuje nebo se o ní lze důvodně domnívat, že dokazuje, že činitel libovolné složky Veřejné Správy porušil, porušuje nebo hodlá porušit zákon. 
+* **§III.5.** Každý činitel Veřejné Správy je osobně odpovědný za škodu jím nebo jí způsobenou při vykonávání své veřejné funkce, pokud přitom jedná protiprávně nebo omylně.
+* **§III.6.** Žádnému členovi Shromáždění Reprezentantů nemůže být bráněno v účasti na hlasování Shromáždění prostřednictvím zadržení před jeho či jejím soudním procesem; žádný soudce žádného Soudu Svobodné republiky Liberland nesmí být zadržen na základě podezření z libovolného trestného činu, s výjimkou výslovného souhlasu alespoň tří Soudců Vrchního Soudu. 
+* **§III.7.** Při trestním řízení má obviněný právo na následující:
+  * **§III.7(1)** rychlý a veřejný soud;
+  * **§III.7(2)** být souzen nezávislou porotou složenou z dvanácti Občanů;
+  * **§III.7(3)** být informován o tom, že čeho je obviněn;
+  * **§III.7(4)** konfrontovat svědky a vyžádat si přítomnost svědků u soudu;
+  * **§III.7(5)** poskytnutí bezplatné právní pomoci v případech, kdy je to příslušné;
+  * **§III.7(6)** být považován za nevinného, dokud se vina neprokáže;
+  * **§III.7(7)** nebýt nucen svědčit proti sobě.
+* **§III.8.** Žádný člověk nebude obviněn, odsouzen nebo uvězněn jinak než podle zákona.
+* **§III.9.** Člověk, který byl zatčen, zadržen, uvězněn, souzen nebo odsouzen buď protiprávně nebo omylem má nárok na spravedlivou kompenzaci.
+* **§III.10.** Žádný člověk nesmí být zadržován bez soudu déle než čtyřiadvacet hodin s výjimkou naplňování Zatykače vydaného soudcem Trestního Soudu, žádný zatykač nebude vydán mimo pravděpodobných případů, podložených příslušnou žádostí a pokud to není zcela nezbytné k ochraně druhých; žádné zadržení při naplňování Zatykače nebude delší než je nezbytně nutné k předvedení obviněného před soud. 
+* **§III.11.** Žádný člověk nebude ani před soudním procesem ani po něm udržován bez styku s vnějším světem.
+* **§III.12.** Obviněnému, který nehovoří jazykem, v němž se soudní řízení koná, bude bezplatně poskytnut tlumočník.
+* **§III.13.** Žádný člověk nebude opakovaně souzen či trestán za stejný přečin.
+* **§III.14.** Žádný člověk nebude zbaven práva vlastnit, vyrábět, prodávat, převážet a nosit zbraně, s výjimkou případů kdy zákonný soud rozhodne jinak nebo z důvodů psychického zdraví, ani nebude toto právo omezeno pomocí licencování.
+* **§III.15.** Žádnému člověku nebude zabráněno podrobit úřední rozhodnutí, které bylo vůči němu uplatněno, zákonnému přezkoumání.
+* **§III.16.** Žádný člověk nebude souzen za neuposlechnutí nezákonného aktu libovolného činitele Veřejné Správy a/nebo neústavního zákona.
+* **§III.17.** Žádný člověk nebude zbaven občanství jinak než prostřednictvím zákonného soudního procesu.
 
 ## Politické instituce
 
