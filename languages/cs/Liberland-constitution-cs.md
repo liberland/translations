@@ -35,7 +35,7 @@ Tato Listina Práv tvoří nedílnou část Ústavy a je závazná pro všechny 
 * **§II.17.** Žádný zákon neomezí právo na sebeobranu a/nebo obranu vlastního majetku proti iniciátorům agrese včetně činitelů Veřejné Správy v případě, kdy jednají nezákonně a/nebo omylem.
 * **§II.18.** Žádný zákon nezavede kontroly ceny zboží a/nebo služeb ani kontroly cen pronájmu.
 * **§II.19.** Žádný zákon nebude regulovat pravidla ohledně nahrávání a/nebo přenášení jakýchkoli materiálů skrze Internet a/nebo jiné výměnné médium, pokud všechny zúčastněné plnoleté strany souhlasí; ani nebude regulovat pravidla týkající se zobrazování a/nebo přístupu k těmto materiálům.
-* **§II.20.** Žádný zákon neposkytne výjimku ze své působnosti členům Shromáždění Reprezentantů, ani nevyloučí žádného člověka z rovné ochrany zákona. 
+* **§II.20.** Žádný zákon neposkytne výjimku ze své působnosti Reprezentantům Shromáždění, ani nevyloučí žádného člověka z rovné ochrany zákona. 
 
 ### Článek III: Práva jednotlivce
 
@@ -44,7 +44,7 @@ Tato Listina Práv tvoří nedílnou část Ústavy a je závazná pro všechny 
 * **§III.3.** Žádný člověk nebude podroben mučení nebo jinému krutému, neobvyklému nebo ponižujícímu zacházení žádným činitelem žádné složky Veřejné zprávy nebo s jeho vědomím či souhlasem; žádný člověk nebude bez svého vědomí podroben experimentům jakéhokoliv druhu; kdokoliv jakýmkoliv způsobem zodpovědný za takovéto jednání bude osobně odpovídat za takový zločin proti lidské důstojnosti bez ohledu na jakýkoliv zákon, postup, příkaz nebo doporučení, které by takové chování mohlo autorizovat.
 * **§III.4.** Žádný člověk nebude obviněn z protiprávního vyzrazení utajované skutečnosti, pokud tato skutečnost dokazuje nebo se o ní lze důvodně domnívat, že dokazuje, že činitel libovolné složky Veřejné Správy porušil, porušuje nebo hodlá porušit zákon. 
 * **§III.5.** Každý činitel Veřejné Správy je osobně odpovědný za škodu jím nebo jí způsobenou při vykonávání své veřejné funkce, pokud přitom jedná protiprávně nebo omylně.
-* **§III.6.** Žádnému členovi Shromáždění Reprezentantů nemůže být bráněno v účasti na hlasování Shromáždění prostřednictvím zadržení před jeho či jejím soudním procesem; žádný soudce žádného Soudu Svobodné republiky Liberland nesmí být zadržen na základě podezření z libovolného trestného činu, s výjimkou výslovného souhlasu alespoň tří Soudců Vrchního Soudu. 
+* **§III.6.** Žádnému Reprezentantu Shromáždění nemůže být bráněno v účasti na hlasování Shromáždění prostřednictvím zadržení před jeho či jejím soudním procesem; žádný soudce žádného Soudu Svobodné republiky Liberland nesmí být zadržen na základě podezření z libovolného trestného činu, s výjimkou výslovného souhlasu alespoň tří Soudců Vrchního Soudu. 
 * **§III.7.** Při trestním řízení má obviněný právo na následující:
   * **§III.7(1)** rychlý a veřejný soud;
   * **§III.7(2)** být souzen nezávislou porotou složenou z dvanácti Občanů;
@@ -66,38 +66,38 @@ Tato Listina Práv tvoří nedílnou část Ústavy a je závazná pro všechny 
 
 ## Politické instituce
 
-The Free Republic of Liberland shall be governed by the Public Authority in accordance with the Constitution. It shall exercise the legislative, executive and judicial functions which have been conferred upon it by this Part of the Constitution and not restricted under the Bill of Rights.
+Svobodná republika Liberland je spravována Veřejnou Správou v souladu s Ústavou. Tato vykonává ty funkce zákonodárné, výkonné a soudní moci, které jí byly svěřeny touto Sekcí Ústavy a které nejsou omezeny Listinou Práv.
 
 ### Článek IV: Moc zákonodárná
 
-* **§IV.1.** All legislative powers of the Free Republic of Liberland shall be vested in the Citizens of the Free Republic of Liberland and the Assembly of the Free Republic of Liberland, hereinafter, "the Assembly", which shall exercise it on behalf of the Citizens.
-* **§IV.2.** The Assembly shall consist of twenty Assembly Representatives elected by the Citizens in the General Election held every four years.
-* **§IV.3.** No Assembly Representative shall hold the office for more than eight years.
-* **§IV.4.** The Assembly shall elect the Chancellor of the Free Republic of Liberland, hereinafter, “the Chancellor”, who shall form the Cabinet of the Free Republic of Liberland, hereinafter, "the Cabinet", with the majority of no fewer than eleven votes; all members of the Cabinet shall be drawn from citizenry.
-* **§IV.5.** The Assembly shall have the power to withdraw confidence from the Chancellor along with his Cabinet by passing the constructive motion of no confidence with the majority of no fewer than eleven votes, only if there is a majority for a prospective successor; confidence from a single Member of the Cabinet can be withdrawn by passing the ordinary motion of no confidence with the majority of no fewer than eleven votes.
-* **§IV.6.** If no Chancellor is elected in accordance with the procedure provided in §IV.4 for more than ninety days, the General Election must be held.
-* **§IV.7.** The power to initiate a legislative procedure shall lie with the Cabinet only.
-* **§IV.8.** An ordinary Bill shall be passed into law with the majority of no fewer than fifteen votes of the Assembly Representatives subject to the power of general veto by the Citizens as provided in §IV.13 and §IV.14.
-* **§IV.9.** A Constitutional Bill proposing an Amendment to this Constitution shall be passed only with the unanimous vote with all Assembly Representatives present and participating in the vote, and shall be subject to the power of general veto by the Citizens as provided in §IV.15.
-* **§IV.10.** The Financial Bill containing the provisions of the Annual Budget shall be passed with the majority of no fewer than eleven votes and shall be subject to the power of general veto by the Citizens as provided in §IV.15.
-  * **§IV.10(1)** No provision of the Annual Budget shall provide for more spending than revenue; the budget shall not be with deficit;
-  * **§IV.10(2)** No provision of the Annual Budget shall provide for any investment that would be designed mainly to boost the economy and/or create employment and/or maintain employment; nor for acquiring any property by any branch of the Public Authority for purposes other than recognised by this Constitution.
-  * **§IV.10(3)** No provision of the Annual Budget shall provide for any form of direct and/or indirect bail out of any legal and/or natural person;
-  * **§IV.10(4)** No provision of the Annual Budget shall provide for funding or partial funding of any political party;
-  * **§IV.10(5)** No provision of the Annual Budget shall provide for funding or partial funding of any form of healthcare services and/or pension schemes;
-  * **§IV.10(6)** Annual Budget shall constitute the only source of financial provisions for the Free Republic of Liberland.
-* **§IV.11.** The Assembly shall regulate its own affairs, determine its own rules of procedure, and choose its own officers, including the Assembly Speaker who shall preside over the business of the Assembly, with the majority of no fewer than eleven votes.
-* **§IV.12.** The powers of the Assembly shall be restricted to the following only:
-  * **§IV.12(1)** to protect the rights of the people to their persons and property;
-  * **§IV.12(2)** to conduct the financial affairs of the Public Administration;
-  * **§IV.12(3)** to lay and collect tax on actual land and/or sales tax only, subject to the requirement of the mandatory referendum as provided in §IV.15, for one or more of the following purposes only:
-    * **§IV.12(3)(a)** covering the expenses of the Public Administration;
-    * **§IV.12(3)(b)** maintaining the internal security;
-    * **§IV.12(3)(c)** providing for the system of Administration of Justice;
-    * **§IV.12(3)(d)** securing and promoting the interests of the Free Republic of Liberland worldwide.
-  * **§IV.12(4)** to establish a militia to maintain the internal security;
-  * **§IV.12(5)** to vest the appointment of such officers whose appointments are not herein otherwise provided for;
-  * **§IV.12(6)** to maintain the system of the Administration of Justice;
+* **§IV.1.** Veškerá zákonodárná moc Svobodné republiky Liberland je svěřena  Občanům Svobodné republiky Liberland a Shromáždění Svobodné republiky Liberland, dále jen "Shromáždění", které ji vykonává jménem Občanů.
+* **§IV.2.** Shromáždění sestává z dvaceti Reprezentantů Shromáždění volených Občany ve Všeobecných Volbách konaných každé čtyři roky.
+* **§IV.3.** Žádný Reprezentant Shromáždění nemůže zastávat úřad déle než osm let.
+* **§IV.4.** Shromáždění volí Kancléře Svobodné republiky Liberland, dále jen "Kancléř", který sestavuje Vládu Svobodné republiky Liberland, dále jen "Vláda", většinou ne menší než jedenáct hlasů; všichni členové Vlády jsou vybíráni z občanů.
+* **§IV.5.** Shromáždění má moc vyslovit nedůvěru Kancléři spolu s jeho Vládou tím, že odhlasují konstruktivní nedůvěru většinou alespoň jedenáct hlasů, a to pouze za situace, kdy existuje většina pro očekávaného nástupce; důvěra může být také odňata jednotlivému Členu Vlády prostým vyslovením nedůvěry většinou alespoň jedenácti hlasů.
+* **§IV.6.** Pokud není Kancléř zvolen v souladu s postupem popsaným v §IV.4  ani více než po devadesáti dnech, musí se konat nové Všeobecné Volby. 
+* **§IV.7.** Pouze Vláda má pravomoc iniciovat zákonodárnou proceduru.
+* **§IV.8.** Běžný Návrh Zákona se stává Zákonem schválením alespoň patnáctičlennou většinou Reprezentantů Shromáždění a je předmětem lidového veta Občanů dle §IV.13 a §IV.14.
+* **§IV.9.** Návrh Ústavního Zákona, který navrhuje dodatek k této Ústavě, je možné schválit pouze jednomyslným hlasováním při plné účasti všech Reprezentantů Shromáždění na tomto hlasování a je předmětem lidového veta dle §IV.15.
+* **§IV.10.** Finanční Zákon obsahující ustanovení Ročního Státního Rozpočtu je možné schválit většinou alespoň jedenácti hlasů a je předmětem lidového veta dle §IV.15.
+  * **§IV.10(1)** Ustanovení Ročního Státního Rozpočtu nesmí obsahovat větší výdaje než příjmy; deficitní rozpočet je nepřípustný;
+  * **§IV.10(2)** Ustanovení Ročního Státního Rozpočtu nesmí obsahovat žádnou investici jejímž primárním záměrem by bylo podpořit ekonomiku a/nebo zvýšit zaměstnanost a/nebo udržet zaměstnanost; ani získání majetku jakékoliv složky Veřejné Správy pro účely jiné než uznané touto Ústavou;
+  * **§IV.10(3)** Ustanovení Ročního Státního Rozpočtu nesmí poskytnout žádnou formu přímé a/nebo nepřímé záchrany či záruky jakékoliv právnické a/nebo fyzické osobě;
+  * **§IV.10(4)** Ustanovení Ročního Státního Rozpočtu nesmí poskytnout financování nebo částečné financování žádné politické straně;
+  * **§IV.10(5)** Ustanovení Ročního Státního Rozpočtu nesmí poskytnout financování nebo částečné financování žádnému systému zdravotní péče nebo důchodového systému;
+  * **§IV.10(6)** Roční Státní Rozpočet tvoří jediný zdroj financování Svobodné republiky Liberland.
+* **§IV.11.** Shromáždění si samo spravuje své záležitosti, určuje pravidla a jednací procedury a vybírá své vlastní představitele včetně Mluvčího Shromáždění, který předsedá činnosti Shromáždění, a to většinou alespoň jedenácti hlasů.
+* **§IV.12.** Pravomoci Shromáždění jsou omezeny výhradně na následující:
+  * **§IV.12(1)** ochrana práv lidí ke své vlastní osobě a majetku;
+  * **§IV.12(2)** řízení finančních náležitosti Veřejné Správy;
+  * **§IV.12(3)** vyměřování a výběr výhradně daní z půdy a/nebo daní z obratu, které však navíc vyžadují povinné referendum dle §IV.15, a to pouze na následující účely:
+    * **§IV.12(3)(a)** krytí výdajů Veřejné Správy;
+    * **§IV.12(3)(b)** udržování vnitřní bezpečnosti;
+    * **§IV.12(3)(c)** zajišťování Soudního Systému;
+    * **§IV.12(3)(d)** zabezpečování a podpora zájmů Svobodné republiky Liberland po celém světě.
+  * **§IV.12(4)** ustanovení milicí k udržování vnitřní bezpečnosti;
+  * **§IV.12(5)** zajištění jmenování těch úředníků, jejichž jmenování zde není zajištěno jiným způsobem;
+  * **§IV.12(6)** udržování Soudního Systému;
   * **§IV.12(7)** to make such laws as shall be necessary for carrying into execution the powers vested by this Constitution in the Assembly provided that no law imposes greater restrictions on the people than absolutely necessary for the attainment of the end;
   * **§IV.12(8)** to assent to the incorporation of any new territories to the Free Republic of Liberland.
 * **§IV.13.** Any ordinary Bill passed by the Assembly under this Constitution shall be subject to the general right of veto by the Citizens as expressed in the referendum.
