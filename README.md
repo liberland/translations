@@ -6,7 +6,14 @@ This is the source repository for translations of Liberland documents. All docum
 > **The English version shall always prevail in case of any discrepancy or inconsistency between English version and any translation.**
 
 ## Available translations
-<!-- - [None]() by John Appleseed ([@example](https://github.com/example)) -->
+
+### Current
+* **Czech / čeština**
+  * [Návrh Ústavy Svobodné republiky Liberland](languages/sr/Liberland-constitution-cs.md) (in progress - 50%)
+
+### Outdated
+* **Serbian / srpski / српски**
+  * [Слободна Република Либерланд – нацрт Устава](languages/sr/Liberland-constitution-sr.md) (23.4.2015)
 
 ## How to contribute
 
@@ -25,4 +32,3 @@ This is the source repository for translations of Liberland documents. All docum
 
 ## Source files
 - [Liberland-constitution.md](https://raw.githubusercontent.com/liberland/constitution/master/Liberland-constitution.md)
-
