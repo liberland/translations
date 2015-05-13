@@ -9,7 +9,7 @@ This is the source repository for translations of Liberland documents. All docum
 
 ### Current
 * **Czech / čeština**
-  * [Návrh Ústavy Svobodné republiky Liberland](languages/cs/Liberland-constitution-cs.md) (in progress - 50%)
+  * [Návrh Ústavy Svobodné republiky Liberland](languages/cs/Liberland-constitution-cs.md) (in progress - 66%)
 
 ### Outdated
 * **Serbian / srpski / српски**
