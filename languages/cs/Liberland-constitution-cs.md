@@ -28,14 +28,14 @@ Tato Listina Práv tvoří nedílnou část Ústavy a je závazná pro všechny 
 * **§II.10.** Žádný zákon nezavede institut otroctví, povinných odvodů, vázané služby nebo jiných forem nevolnictví v rámci Svobodné republiky Liberland nebo na kterémkoliv místě pod její jurisdikcí.
 * **§II.11.** Žádný zákon neomezí právo kohokoliv používat nebo vydávat jakoukoliv komoditu nebo předmět jakožto peníze; stejně tak Veřejná Správa Svobodné republiky Liberland nebude provádět žádnou formu měnové regulace nebo vydávání měny; ani neustanoví žádnou Centrální Banku.
 * **§II.12.** Žádný zákon nenavrhne, neumožní ani nepožádá o začlenění Svobodné republiky Liberland nebo její jakékoliv části pod jinou jurisdikci.
-* **§II.13.** No law shall impose any obligations as to pursuing and/or obtaining any stage of education by any person; nor shall it regulate the content of any curriculum used by any school or any higher education institute at any stage of education.
-* **§II.14.** No law shall establish and/or regulate the institution of marriage between persons of age.
-* **§II.15.** No law shall oblige any person to acquire any form of insurance and/or pension scheme, nor shall it provide any incentive in that respect.
-* **§II.16.** No law shall prohibit video and/or audio recording of any agent of the Public Administration in public space and whilst on duty.
-* **§II.17.** No law shall abridge the right of self-defence and/or defence of one's property against initiators of aggression, including the agents of the Public Administration where acting unlawfully and/or in error.
-* **§II.18.** No law shall institute price controls of goods and/or services, nor rent controls.
-* **§II.19.** No law shall regulate the rules concerning uploading and/or transmitting any materials through the Internet and/or any other medium of exchange, where all parties of age involved consent; nor shall it regulate the rules concerning displaying and/or accessing such material.
-* **§II.20.** No law shall exempt Assembly Representatives from its operation, nor deny to any person the equal protection of the laws.
+* **§II.13.** Žádný zákon žádnému člověku neuloží jakoukoliv povinnost uskutečňovat nebo získat vzdělání jakéhokoliv stupně; ani nebude regulovat obsah školních osnov jakékoliv školy nebo instituce vyššího vzdělávání v jakékoliv fázi vzdělávání.
+* **§II.14.** Žádný zákon neustanoví a/nebo nebude regulovat institut manželství mezi plnoletými lidmi.
+* **§II.15.** Žádný zákon žádnému člověku neuloží povinnost pořídit si jakékoliv pojištění a/nebo důchodový systém, ani nevytvoří v tomto smyslu žádnou pobídku.
+* **§II.16.** Žádný zákon nezamezí pořizování videozáznamu a/nebo audiozáznamu kteréhokoliv činitele Veřejné Správy na veřejném místě pokud je tento ve službě. 
+* **§II.17.** Žádný zákon neomezí právo na sebeobranu a/nebo obranu vlastního majetku proti inciátorům agrese včetně činitelů Veřejné Správy v případě, kdy jednají nezákonně a/nebo omylem. 
+* **§II.18.** Žádný zákon nezavede kontroly ceny zboží a/nebo služeb ani kontroly cen pronájmu.
+* **§II.19.** Žádný zákon nebude regulovat pravidla ohledně nahrávání a/nebo přenášení jakýchkoli materiálů skrze Internet a/nebo jiné výměnné médium, pokud všechny zúčastněné plnoleté strany souhlasí; ani nebude regulovat pravidla týkající se zobrazování a/nebo přístupu k těmto materiálům.
+* **§II.20.** Žádný zákon neposkytne výjimku ze své působnosti členům Shromáždění Reprezentantů, ani nevyloučí žádného člověka z rovné ochrany zákona. 
 
 ### Článek III: Práva jednotlivce
 
