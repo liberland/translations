@@ -48,7 +48,7 @@ Tato Listina Práv tvoří nedílnou část Ústavy a je závazná pro všechny 
 * **§III.7.** Při trestním řízení má obviněný právo na následující:
   * **§III.7(1)** rychlý a veřejný soud;
   * **§III.7(2)** být souzen nezávislou porotou složenou z dvanácti Občanů;
-  * **§III.7(3)** být informován o tom, že čeho je obviněn;
+  * **§III.7(3)** být informován o tom, z čeho je obviněn;
   * **§III.7(4)** konfrontovat svědky a vyžádat si přítomnost svědků u soudu;
   * **§III.7(5)** poskytnutí bezplatné právní pomoci v případech, kdy je to příslušné;
   * **§III.7(6)** být považován za nevinného, dokud se vina neprokáže;
