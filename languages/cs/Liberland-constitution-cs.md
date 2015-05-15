@@ -98,18 +98,17 @@ Svobodná republika Liberland je spravována Veřejnou Správou v souladu s Úst
   * **§IV.12(4)** ustanovení milicí k udržování vnitřní bezpečnosti;
   * **§IV.12(5)** zajištění jmenování těch úředníků, jejichž jmenování zde není zajištěno jiným způsobem;
   * **§IV.12(6)** udržování Soudního Systému;
-  * **§IV.12(7)** to make such laws as shall be necessary for carrying into execution the powers vested by this Constitution in the Assembly provided that no law imposes greater restrictions on the people than absolutely necessary for the attainment of the end;
-  * **§IV.12(8)** to assent to the incorporation of any new territories to the Free Republic of Liberland.
-* **§IV.13.** Any ordinary Bill passed by the Assembly under this Constitution shall be subject to the general right of veto by the Citizens as expressed in the referendum.
-  * **§IV.13(1)** Any Bill vetoed by the Citizens in the referendum shall be considered void and shall not be revived for at least a year;
-  * **§IV.13(2)** Where the Financial Bill is vetoed, the provisions of the Annual Budget adopted the previous year shall apply.
-* **§IV.14.** The referendum provided for in §IV.13 shall be triggered by the request of no less than 3% of the overall number of Citizens, if submitted within ninety days after the Bill was passed by the Assembly, and shall be deemed to veto the legislative proposal if the majority of the Citizens taking part in that referendum vote ‘No’.
-* **§IV.15.** Any Bill proposing taxation and/or taxation-like burdens, such as any form of duty, or any Constitutional Bill shall be subject to the mandatory referendum to take place within ninety days after the Bill was passed by the Assembly, and shall be deemed to be vetoed if the majority of the Citizens taking part in that referendum vote ‘No’.
-* **§IV.16.** Any referendum in the Free Republic of Liberland shall be conducted online via the Internet.
-* **§IV.17.** Any Bill proposed to the Assembly shall pertain to one matter only as expressed in its title; it shall contain rationale behind it and means of achieving thereof including precise calculations as to its potential impact on the budget; and shall specify under which power delegated by this Constitution to the Assembly it is proposed; such Bill shall be read aloud in entirety by the Assembly Speaker before it is passed.
-* **§IV.18.** A Bill shall become ‘under consideration’ once it is passed by the Assembly in accordance with the provisions of this Article, and either 90 days have passed and no referendum was called in accordance with §IV.13 and §IV.14, or on the day the Bill obtained the assent of the Citizens in referendum.
-* **§IV.19.** A Bill shall become the law of the Free Republic of Liberland, and shall be known as “Act” once it became ‘under consideration’ in accordance with the procedure provided for in §IV.18, and was declared constitutional by the Supreme Court of the Free Republic of Liberland, hereinafter, "the Supreme Court".
-* **§IV.20.** The law of the Free Republic of Liberland shall enter into force on the day it is signed by the Chief Justice of the Supreme Court, or if unable, by any other Justice of the Supreme Court which must take place upon the declaration of constitutionality.
+  * **§IV.12(7)** přijímání zákonů nezbytných pro realizaci pravomocí svěřených touto Ústavou Shromáždění, za předpokladu že žádný zákon neuvalí na lidi větší omezení než je absolutně nezbytné k dosažení cíle;
+  * **§IV.12(8)** směřovat k začlenění jakýchkoliv nových území k Svobodné republice Liberland.
+* **§IV.13.** Každý běžný Návrh Zákona schválený dle Ústavy Shromážděním spadá pod obecnou pravomoc lidového veta Občanů vyjádřenou v referendu.
+  * **§IV.13(1)** Libovolný Návrh Zákona vetovaný Občany v referendu je považován za zrušený a nesmí být znovu navržen minimálně po dobu jednoho roku;
+  * **§IV.13(2)** V případě, že je vetován Finanční Zákon, zůstává v platnosti ustanovení Ročního Státního Rozpočtu z předchozího roku.
+* **§IV.14.** Referendum stanovené v §IV.13 je vyvoláno žádostí alespoň 3% z celkového počtu Občanů, je-li podána ve lhůtě devadesáti dnů po schválení Návrhu Zákona Shromážděním, a vede k vetování legislativního návrhu, pokud většina Občanů účastnících se tohoto referenda hlasuje "Ne".
+* **§IV.15.** Jakýkoliv Návrh Zákona zavádějící zdanění a/nebo danipodobné břemeno jakožto povinnost libovolného druhu, nebo jakýkoliv Návrh Ústavního Zákona je předmětem povinného referenda, které se musí konat ve lhůtě devadesáti dnů po schválení Návrhu Zákona Shromážděním, a vede k vetování, pokud většina Občanů účastnících se tohoto referenda hlasuje "Ne".
+* **§IV.16.** Libovolný Návrh Zákona předložený Shromáždění se musí týkat jediné záležitosti vyjádřené v jeho názvu; musí obsahovat zdůvodnění a způsob dosažení cíle včetně přesné kalkulace potenciálního dopadu na rozpočet; musí být specifikováno od které pravomoci svěřené Shromáždění touto Ústavou se návrh odvíjí; tento Návrh Zákona musí být před schválením nahlas přečten Mluvčím Shromáždění v celé své délce.
+* **§IV.17.** Návrh Zákona se dostává do stavu "zvažuje se" poté, co je schválen v souladu s ustanoveními tohoto Článku buď uplynutím devadesáti dnů, nedošlo-li k vyvolání referenda dle §IV.13 a §IV.14, a nebo dnem kdy Návrh Zákona získal podporu Občanů v referendu.
+* **§IV.18.** Návrh Zákona se stává zákonem Svobodné republiky Liberland a vstupuje ve známost jakožto "Zákon" jakmile se dostane do stavu "zvažuje se" v souladu s procedurou uvedenou v §IV.17 a je-li prohlášen jako v souladu s Ústavou Nejvyšším Soudem Svobodné Republiky Liberland, dále jen "Nejvyšší Soud".
+* **§IV.19.** Zákon Svobodné Republiky Liberland se stává pravomocným dnem podpisu Vrchním Soudcem Nejvyššího Soudu, který musí následovat po prohlášení zákona za v souladu s Ústavou.
 
 ### Článek V: Moc výkonná
 
