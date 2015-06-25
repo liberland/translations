@@ -1,17 +1,19 @@
 [![liberland](http://liberland.org/addons/image/Liberland_znak_small.png)](https://github.com/liberland/liberland)
 
 # Liberland Translation Project
-This is the source repository for translations of Liberland documents. All documents, including translated versions can be downloaded in several different formats including PDF, ePub and Mobi from [liberland/docs](https://github.com/liberland/docs) repository (in future).
+This is the source repository for translated Liberland documents. 
+
+
+
+All documents, including translated versions can be downloaded in several different formats including PDF, ePub and Mobi from [liberland/docs](https://github.com/liberland/docs) repository (in future).
 
 > **The English version shall always prevail in case of any discrepancy or inconsistency between English version and any translation.**
 
-## Available translations
+## Outdated - Please update on Transifex
 
-### Current
 * **Czech / čeština**
   * [Návrh Ústavy Svobodné republiky Liberland](languages/cs/Liberland-constitution-cs.md) (in progress - 66%)
 
-### Outdated
 * **Serbian / srpski / српски**
   * [Слободна Република Либерланд – нацрт Устава](languages/sr/Liberland-constitution-sr.md) (23.4.2015)
 
