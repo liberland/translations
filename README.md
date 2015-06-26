@@ -21,7 +21,7 @@ To get started translating files on Transifex, follow these steps:
 
 When translating, please note the following:
 
-* The original source files are in "markdown" format and contain some text formatting characters (such as #, ##, ###, *, >, *, and §). **Please keep all formatting characters in the translated text.**
+* The original source files are in "markdown" format and contain some text formatting characters (such as \#, \#\#, \#\#\#, \*, \*\*, >, and §). **Please keep all formatting characters in the translated text.**
 * If the original source changes, the previous translation will not be shown by default. Nevertheless, Transifex keeps a record of all previous translations, and if the new phrase is similar to the previous one, transifex will suggest translated strings under the tabs *suggestions* or *history*.
 
 
