@@ -31,7 +31,7 @@ To use this repo as an administrator, first use the command
 
     make init
     
-This will clone the source directories into the subdirectory of the translations git called *source*. This only needs to be done once. Next, type
+This will clone the source directories into the *source* subdirectory of the translations git. This only needs to be done once. Next, type
 
     make
     
