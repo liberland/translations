@@ -6,7 +6,7 @@ The Liberland translation project aims to make all essential Liberland documents
 * [Constitution](https://github.com/liberland/constitution)
 * [Laws](https://github.com/liberland/laws)
 
-The translation of individual source files is done using a simple web-based interface offered by [Transifex](https://www.transifex.com/). In brief, the project administrators upload the english source files to Transifex, the files are translated online by the community, and the administrators pull the translated files back into this project. All translated files are then converted to several formats, including PDF, ePub, Mobi, and html.
+The translation of individual source files is done using a simple web-based interface that is offered by [Transifex](https://www.transifex.com/) to open source projects. The project administrators upload the english source files to Transifex, the files are translated online by the community, and the administrators pull the translated files back into this repository. All translated files are then converted to several formats for distribution, including pdf, ePub, Mobi, and html.
 
 **Please note that the English version shall always prevail in case of any discrepancy or inconsistency between the English version and any translation.**
 
@@ -22,19 +22,21 @@ To get started translating files on Transifex, follow these steps:
 When translating, please note the following:
 
 * The original source files are in "markdown" format and contain some text formatting characters (such as \#, \#\#, \#\#\#, \*, \*\*, >, and §). **Please keep all formatting characters in the translated text.**
-* If the original source file changes, the previous translation of the changed phrase will not be shown by default. However, Transifex does keep a record of all previous translations, and if the new phrase is similar to the previous one, transifex will suggest translated strings under the tabs *suggestions* or *history*.
+* If the original source file changes, the previous translation of the changed phrase will not be shown. However, Transifex does keep a record of all previous translations, and if the new phrase is similar to the previous one, transifex will suggest translated strings under the tab *suggestions*. Previous translations of the phrase can be found under the tab *history*.
 
 ## How to update source and translated files
 
-To use this repo as an administrator, first use the command
+To use this repo as an administrator, first enter the command
 
     make init
     
-This will clone the source repos into the *source* subdirectory of the translations git. This only needs to be done once. Next, type
+This will clone the source repos into the *source* subdirectory of this project. This needs to be done only once. Next, type
 
     make
     
-This will update the source repos, push the source files to Transifex, pull any new translated files into your project, and then convert all files to PDF, ePub, Mobi and html formats.
+This will update the source repos, push the source files to Transifex, pull any newly translated files into your project, and then convert all files to pdf, ePub, Mobi and html formats.
+
+If new languages are added to the Transifex project, it will be necessary to modify the Makefile by adding the language code to the variables LANGCONST and/or LANGLAWS (for constitution and laws translations, respectively).
 
 To use the makefile you will need to install both **pandoc** and the **transifex client**. The Transifex client can be installed using the command
 
