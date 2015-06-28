@@ -47,7 +47,7 @@ To use the makefile you will need to install both **pandoc** and the **transifex
 The following translated files are outdated and have not been imported into Transifex. Before working on these languages, it would be useful to put these into the Transifex Project. These files will eventually be deleted.
 
 * **Czech / čeština**
-  * [Návrh Ústavy Svobodné republiky Liberland](languages/cs/Liberland-constitution-cs.md) (in progress - 66%)
+  * [Návrh Ústavy Svobodné republiky Liberland](languages_old/cs/Liberland-constitution-cs.md) (in progress - 66%)
 
 * **Serbian / srpski / српски**
-  * [Слободна Република Либерланд – нацрт Устава](languages/sr/Liberland-constitution-sr.md) (23.4.2015)
+  * [Слободна Република Либерланд – нацрт Устава](languages_old/sr/Liberland-constitution-sr.md) (23.4.2015)
