@@ -1,0 +1,38 @@
+[main]
+host = https://www.transifex.com
+
+[constitution.constitution]
+file_filter = translations/constitution/<lang>/Liberland-constitution-<lang>.md
+source_file = source/constitution/Liberland-constitution.md
+source_lang = en
+type = TXT
+
+[laws.Civil_Disputes]
+file_filter = translations/laws/<lang>/Adjudication_of_Civil_Disputes_<lang>.md
+source_file = source/laws/drafts/Adjudication_of_Civil_Disputes.md
+source_lang = en
+type = TXT
+
+[laws.Administration_of_Justice]
+file_filter = translations/laws/<lang>/Administration_of_Justice_<lang>.md
+source_file = source/laws/drafts/Administration_of_Justice.md
+source_lang = en
+type = TXT
+
+[laws.Corporate_Regulations]
+file_filter = translations/laws/<lang>/Corporate_Regulations_<lang>.md
+source_file = source/laws/drafts/Corporate_Regulations.md
+source_lang = en
+type = TXT
+
+[laws.Land_Ownership]
+file_filter = translations/laws/<lang>/Land_Ownership_<lang>.md
+source_file = source/laws/drafts/Land_Ownership.md
+source_lang = en
+type = TXT
+
+[laws.Preparatory_Committee]
+file_filter = translations/laws/<lang>/The_Articles_of_the_Preparatory_Committee_<lang>.md
+source_file = source/laws/drafts/The_Articles_of_the_Preparatory_Committee.md
+source_lang = en
+type = TXT
