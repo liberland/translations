@@ -50,8 +50,8 @@ PANDOC = pandoc
 GIT = git
 TX = tx
 
-LANG_LAWS = cs de fr hr hu ru sr tr
-LANG_CONST = cs de fr hr hu ru sr tr
+LANG_LAWS = cs de fr hr hu ru sr tr pt_BR
+LANG_CONST = cs de fr hr hu ru sr tr pt_BR
 
 PD_OPT = --tab-stop=2 --toc --toc-depth=3 -S
 PDF_OPTIONS = -V geometry:margin=1in
