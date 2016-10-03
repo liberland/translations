@@ -17,7 +17,7 @@ To get started translating files on Transifex, follow these steps:
 * Go to the [Transifex](https://www.transifex.com) website, click on *login*, and then *create a new account*.
 * After verifying your account, click on the link *Explore* and search for *Liberland*. 
 * The Liberland organization has two translation projects: *constitution* and *laws*. Select one, click on *join team*, select the language you want to translate, and then wait to be approved by the administrator. If the language that you want to translate is not there, instead of clicking on *join team*, click *request language*.
-* After approval, go to the [Liberland dashboard](https://www.transifex.com/organization/liberland/dashboard) and then click on the language you want to translate. Click the project *constitution* or *laws*, choose the resource to be translated, and finally click *translate* in the pop-up window. The rest should be obvious.
+* After approval, go to the [Liberland dashboard](https://www.transifex.com/liberland/public/) and then click on the language you want to translate. Click the project *constitution* or *laws*, choose the resource to be translated, and finally click *translate* in the pop-up window. The rest should be obvious.
 
 When translating, please note the following:
 
